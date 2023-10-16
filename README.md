@@ -15,7 +15,7 @@
 </div>
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Minal Mahajan</h1><br><h3> A passionate and motivated Full Stack Developer with a thirst for knowledge and a dedication to professional growth.v</h3><br>
+<h1 align="center">Hi 👋, I'm Minal Mahajan</h1><br><h3> A passionate and motivated Full Stack Developer with a thirst for knowledge and a dedication to professional growth.</h3><br>
 <div align="center">
 
 
